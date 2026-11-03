@@ -1,0 +1,32 @@
+CV EN LÍNEA - FELIBETH BOLAÑOS ALTAMIRANO
+
+CONTENIDO
+- index.html: página principal del CV.
+- assets/: estilos, scripts y tipografías de la plantilla HTML5 UP.
+- images/: imágenes originales de la plantilla.
+
+VER LA PÁGINA EN TU COMPUTADORA
+1. Extrae el archivo ZIP.
+2. Abre la carpeta cv_felibeth.
+3. Haz doble clic en index.html para abrirlo en tu navegador.
+
+PUBLICAR EN GITHUB PAGES
+1. Inicia sesión en https://github.com/
+2. Crea un repositorio nuevo. Por ejemplo: mi-cv.
+3. Déjalo como Public (público) si quieres usar GitHub Pages gratis.
+4. Sube todos los archivos y carpetas de este proyecto. Es importante que index.html quede en la raíz del repositorio.
+5. En el repositorio entra a Settings > Pages.
+6. En Build and deployment selecciona Deploy from a branch.
+7. Selecciona la rama main y la carpeta /(root), y guarda.
+8. Espera a que GitHub Pages publique la página. La dirección aparecerá en esa misma sección.
+
+ANTES DE PUBLICAR
+- Cambia el enlace https://github.com/ por la URL de tu perfil en index.html (aparece en dos lugares).
+- Revisa que el teléfono y correo sean los que deseas hacer públicos.
+- Por privacidad, el domicilio exacto del CV no se incluyó; se muestra solamente Huejotzingo, Puebla.
+- Sustituye images/avatar.jpg y images/banner.jpg por fotografías o imágenes propias si lo deseas.
+- Agrega imágenes y enlaces reales a tus proyectos en la sección Experiencia y proyectos.
+
+LICENCIA DE LA PLANTILLA
+La estructura original está basada en Read Only de HTML5 UP, distribuida bajo Creative Commons Attribution 3.0.
+Consulta https://html5up.net/license
